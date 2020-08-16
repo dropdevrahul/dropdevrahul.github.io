@@ -20,7 +20,7 @@ Link to my [Resume](https://drive.google.com/file/d/1L5jS4IMLqUfFDu5AX9ewqfTo7mn
 
 [Dzone: devops related stuff](https://dzone.com/)
 
-[Pycon][https://pycon.org/]
+[Pycon](https://pycon.org/)
 
 [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
 
