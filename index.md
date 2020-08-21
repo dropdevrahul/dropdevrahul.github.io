@@ -16,7 +16,7 @@ Link to my [Resume](https://drive.google.com/file/d/1L5jS4IMLqUfFDu5AX9ewqfTo7mn
 
 [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 
-[Obet the testing goat](https://www.obeythetestinggoat.com/)
+[Obey the testing goat](https://www.obeythetestinggoat.com/)
 
 #### Favorite Programming blogs and reading sources
 
