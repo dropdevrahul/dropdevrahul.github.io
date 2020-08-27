@@ -6,7 +6,7 @@ Software Engineer and Architect(Python development, distributed microservices, F
 
 Strong grasp of CS fundamentals and upto date with latest trends in software development.
 
-Link to my [Resume](https://drive.google.com/file/d/1L5jS4IMLqUfFDu5AX9ewqfTo7mnWGBTI/view?usp=sharing).
+Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-egGD3/view?usp=sharing).
 
 #### Favorite Programming books
 
