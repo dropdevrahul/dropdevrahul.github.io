@@ -38,7 +38,7 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 
 ### Index of good resources on python or general software development
 
-- [Django Asgi Performance](https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance/)
+[Django Asgi Performance](https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance/)
 
 
 
