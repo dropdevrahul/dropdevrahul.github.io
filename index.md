@@ -1,6 +1,6 @@
 ## Rahul Tyagi
 
-Software Engineer and Architect(Python development, distributed microservices, Frontend development with Angular Experience) with several years of experience of working in fast paced startups and a masters degree in Software Engineering .
+Software Engineer and Architect(Python development, distributed microservices, Frontend development with Angular) with several years of experience of working in fast paced startups and a masters degree in Software Engineering .
 
 ### About Me
 
