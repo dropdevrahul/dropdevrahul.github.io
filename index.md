@@ -29,4 +29,16 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 [InfoQ](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
 
 
+### Good Libraries and frameworks:
+
+[Locust: an open source distributed load testing framework](https://docs.locust.io/en/stable/what-is-locust.html)
+
+[Apache ab: A very simple command line based load testing tool](https://httpd.apache.org/docs/2.4/programs/ab.html)
+
+
+### Index of good resources on python or general software development
+
+- [Django Asgi Performance](https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance/)
+
+
 
