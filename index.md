@@ -42,3 +42,5 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 
 [Python Asyncio][https://youtu.be/F19R_M4Nay4]
 
+[Advanced Django Querysets](https://youtu.be/5y7vU52jOiQ)
+
