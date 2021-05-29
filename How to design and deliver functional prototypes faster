@@ -2,7 +2,8 @@ This guide is written to get a small working application/service/microservice in
 
 ### Things to keep in mind for designing and prototyping in a fast paced environment in order to determine viability of a tech stack
 
-- Before working on the prototype a common set of functionalities should be established that cannot or will not change drastically in the future, atleast an overall abstract use should be there even if specific requirements might not be there
+- Before working on the prototype a common set of functionalities should be established that cannot or will not change drastically in the future,
+atleast an overall abstract use should be there even if specific requirements might not be there
 e.g my application should be process x number of queries on a given size of data with a given amount of complexity for the data and queries, or
 my application should be able perform x number of functions with some y additional features in future, basically we should have a definitive list of features the app can provide 
 now and in future with some level of flexiblity, more flexible it is more it will hard to prototype and some alternate model of sdlc should be chosen for this app if flexibilty is too high.
