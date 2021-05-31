@@ -1,4 +1,4 @@
-This guide is written to get a small working application/service/microservice in 2-3 months from concrete ideas to implementaion.
+This guide is written to get a small working application/service/microservice from concrete ideas to implementaion.
 
 ### Things to keep in mind for designing and prototyping in a fast paced environment in order to determine viability of a tech stack
 
