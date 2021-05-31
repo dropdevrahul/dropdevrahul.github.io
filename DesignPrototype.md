@@ -41,7 +41,7 @@ uses cases and tech so this step should probably include everyone that can provi
 ### From prototype to a working application
 
 - Once you have decided the tech stack, clean up your code and start adding practical code structure, first only do this for core features, in the course of further development
-you may find bugs keep fixing them and if possible write unit tests for any code that you have written(don't write tests for frameowrk/library/langauge builtins as they are a;ready tested).
+you may find bugs keep fixing them and if possible write unit tests for any code that you have written(don't write tests for framework/library/language builtins as they are already tested).
 - Make the code consistent across the code base.
 - Do these for a few small iterations of 1-2 days until your core features become stable.
 - Now just keep adding more features in small iterations.
