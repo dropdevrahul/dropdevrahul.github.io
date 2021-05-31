@@ -7,7 +7,7 @@ atleast an overall abstract use should be there even if specific requirements mi
 e.g my application should be able to process x number of queries on a given size of data with a given amount of complexity for the data and queries, or
 my application should be able perform x number of functions with some y additional features in future, basically we should have a definitive list of features the app can provide 
 now and in the future with some level of flexiblity, more flexible the app needs to be the harder it will be to prototype and some alternate model of sdlc should be chosen for this app if flexibilty required is too high.
-- Understanding whether you are doing application development or framework development(also called meta programming which is a time cosnuming process and requries a lot of planning and time so its really not possible to prototype it)
+- Understanding whether you are doing application development or framework development(also called meta programming which is a time consuming process and requries a lot of planning and time so its really not possible to prototype it)
 - Too much fixation on SOLID/DRY principles: since we are working outside any particular sdlc there might be little to no planning time, just focus on keeping the vital 
 components of your architecture maintainable or better yet use an existing framework/collection of libraries which does it for you. As any non vital components/code/classes can be changed
  by even junior developers if it has limited functionality.
