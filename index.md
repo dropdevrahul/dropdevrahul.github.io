@@ -31,7 +31,8 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 ### Other youtube channels for software engineering talks
 
 [Gophercon UK](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ)
-[https://www.youtube.com/c/GotoConferences/featured](https://www.youtube.com/c/GotoConferences/featured)
+
+[Goto](https://www.youtube.com/c/GotoConferences/featured)
 
 ### Some good posts for software engineers
 
