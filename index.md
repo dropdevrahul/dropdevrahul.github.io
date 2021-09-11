@@ -37,6 +37,7 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 ### Some good posts for software engineers
 
 [Changelog](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA?sa=X&ved=2ahUKEwiUjMKY5fbyAhUo2zgGHcLHB94Q9sEGegQIARAD)
+
 [Gotime](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2dvdGltZS9mZWVk?sa=X&ved=2ahUKEwiUjMKY5fbyAhUo2zgGHcLHB94Q9sEGegQIARAC)
 
 
