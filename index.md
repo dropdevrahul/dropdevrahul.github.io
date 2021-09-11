@@ -18,6 +18,8 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 
 [Obey the testing goat](https://www.obeythetestinggoat.com/)
 
+[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+
 #### Favorite Programming blogs and reading sources
 
 [Dzone: devops related stuff](https://dzone.com/)
@@ -27,6 +29,16 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
 
 [InfoQ](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
+
+### Other youtube channels for software engineering talks
+
+[Gophercon UK](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ)
+[https://www.youtube.com/c/GotoConferences/featured](https://www.youtube.com/c/GotoConferences/featured)
+
+### Some good posts for software engineers
+
+[Changelog](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA?sa=X&ved=2ahUKEwiUjMKY5fbyAhUo2zgGHcLHB94Q9sEGegQIARAD)
+[Gotime](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2dvdGltZS9mZWVk?sa=X&ved=2ahUKEwiUjMKY5fbyAhUo2zgGHcLHB94Q9sEGegQIARAC)
 
 
 ### Good Libraries and frameworks:
