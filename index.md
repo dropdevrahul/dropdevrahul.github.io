@@ -18,8 +18,6 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 
 [Obey the testing goat](https://www.obeythetestinggoat.com/)
 
-[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
-
 #### Favorite Programming blogs and reading sources
 
 [Dzone: devops related stuff](https://dzone.com/)
