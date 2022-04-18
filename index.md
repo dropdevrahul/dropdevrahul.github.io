@@ -1,12 +1,13 @@
 ## Rahul Tyagi
 
-Software Engineer and Architect(Python development, distributed microservices, Frontend development with Angular) with several years of experience of working in fast paced startups and a masters degree in Software Engineering .
+Software Engineer & Architect(Python/Golang) with experience in micro/macro services development with several years of experience of working in fast paced startups and a masters degree in Software Engineering. 
 
 ### About Me
 
-Strong grasp of CS fundamentals and upto date with latest trends in software development.
-
-Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-egGD3/view?usp=sharing).
+- Strong grasp of CS fundamentals and upto date with latest trends in Software Development. 
+- Linux Enthusiast with my own preferred dev linux rice setup(see the dotfiles).
+- I <3 vim for development.
+- In the past have worked heavily with Python now moving to Golang for the better performance and the kind of work I want to do.
 
 #### Favorite Programming books
 
@@ -48,11 +49,17 @@ Link to my [Resume](https://drive.google.com/file/d/19DJwbpgYR5AVrPZncMPqodYgae-
 [Apache ab: A very simple command line based load testing tool](https://httpd.apache.org/docs/2.4/programs/ab.html)
 
 
-### Index of good resources on python or general software development
+### Index of good resources on python/golang or general software development
 
 [Django Asgi Performance](https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance/)
 
 [Python Asyncio](https://youtu.be/F19R_M4Nay4)
 
 [Advanced Django Querysets](https://youtu.be/5y7vU52jOiQ)
+
+[Basic Go](https://www.youtube.com/c/GolangDojo)
+
+[Effective Go](https://go.dev/doc/effective_go)
+
+
 
