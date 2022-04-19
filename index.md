@@ -61,5 +61,7 @@ Software Engineer & Architect(Python/Golang) with experience in micro/macro serv
 
 [Effective Go](https://go.dev/doc/effective_go)
 
+[Go Type System](https://go101.org/article/type-system-overview.html)
+
 
 
