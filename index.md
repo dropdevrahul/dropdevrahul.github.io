@@ -63,5 +63,5 @@ Software Engineer & Architect(Python/Golang) with experience in micro/macro serv
 
 [Go Type System](https://go101.org/article/type-system-overview.html)
 
-
+[Go profiling](https://youtu.be/nok0aYiGiYA)
 
