@@ -48,6 +48,12 @@ Software Engineer & Architect(Python/Golang) with experience in micro/macro serv
 
 [Apache ab: A very simple command line based load testing tool](https://httpd.apache.org/docs/2.4/programs/ab.html)
 
+[ParsePanic for golang](https://github.com/maruel/panicparse)
+
+[fastapi Python](https://github.com/tiangolo/fastapi)
+
+[Extensible API gateway for golang: Krakend](https://github.com/krakendio/krakend-ce)
+
 
 ### Index of good resources on python/golang or general software development
 
