@@ -1,17 +1,28 @@
 ## Rahul Tyagi
 
-Software Engineer & Architect(Python/Golang) with experience in micro/macro services development with several years of experience of working in fast paced startups and a masters degree in Software Engineering. 
+Software Engineer & Architect(Python/Golang) with experience in building/maintaing & updating micro/macro services in fast paced startups and a masters degree in Software Engineering. 
+
+### Career Domains & History
+Started as a fullstack developer in 2017, Currently working as a Senior Backend Engineer. Have worked in finance sector based products (3.5 years) and cybersecurity (1.5 years).
 
 ### About Me
-
+- Experience with On Prem as well as cloud based services.
+- Have have helped in several microservices from scratch as well as libraries for internal/external use by other teams/programmers.
 - Strong grasp of CS fundamentals and upto date with latest trends in Software Development. 
 - Linux Enthusiast with my own preferred dev linux rice setup(see the dotfiles).
-- I <3 vim for development.
-- In the past have worked heavily with Python now moving to Golang for the better performance and the kind of work I want to do.
+- I <3 Vim for development.
+- In the past have worked heavily with Python extensively currently focusing on more low level languages and technologies such as C/Golang
+
+### Links to my projects
+- [Knowledge base](https://dropdevrahul.github.io/) collection of several resources for learning 
+- [Gocache](https://github.com/dropdevrahul/gocacheclient) a simple memery based cache with a custom TCP protocol on top
+- [Hollow](https://github.com/dropdevrahul/gocacheclient) my own programming language to illustarte basic design decisions in writing languages
+- [Trmcal](https://github.com/dropdevrahul/gocacheclient) simple terminal based calender
+- [FmsRegex](https://github.com/dropdevrahul/gocacheclient) simple regex implementation using state machine automata
 
 #### Favorite Programming books
 
-[The Pragmatic Programmer](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
+[The Pragmatic Programmer](https://www.oreilhttps://dropdevrahul.github.io/ly.com/library/view/the-pragmatic-programmer/9780135956977/)
 
 [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
 
