@@ -14,11 +14,12 @@ Started as a fullstack developer in 2017, Currently working as a Senior Backend 
 - In the past have worked heavily with Python extensively currently focusing on more low level languages and technologies such as C/Golang
 
 ### Links to my projects
-- [Knowledge base](https://dropdevrahul.github.io/) collection of several resources for learning 
-- [Gocache](https://github.com/dropdevrahul/gocacheclient) a simple memery based cache with a custom TCP protocol on top
-- [Hollow](https://github.com/dropdevrahul/gocacheclient) my own programming language to illustarte basic design decisions in writing languages
-- [Trmcal](https://github.com/dropdevrahul/gocacheclient) simple terminal based calender
-- [FmsRegex](https://github.com/dropdevrahul/gocacheclient) simple regex implementation using state machine automata
+- [Knowledge base](https://github.com/dropdevrahul/knowledge-base) collection of several resources for learning
+- [Hypr](https://github.com/dropdevrahul/hypr) desktop client to perform Http Requests
+- [Peacock](https://github.com/dropdevrahul/peacock) a simple memery based cache with a custom TCP protocol on top
+- [Hollow](https://github.com/dropdevrahul/hollow) my own programming language to illustarte basic design decisions in writing languages
+- [Trmcal](https://github.com/dropdevrahul/termcal) simple terminal based calender
+- [FmsRegex](https://github.com/dropdevrahul/fmsregex) simple regex implementation using state machine automata
 
 #### Favorite Programming books
 
