@@ -3,7 +3,8 @@ Software Engineer & Architect(Python/Golang) with experience in building/maintai
 Have a total of 6+ years of professional experience working with both large teams(as large as 150 developers across several pods) and in small teams (5-6 developers).
 
 ### Career Domains & History
-Started as a fullstack developer in 2017, Currently working as a Senior Software Engineer. Have worked in finance sector/cybersecurity.
+Started as a fullstack developer in 2017, Currently working as a Senior Software Engineer. Have worked in finance sector/cybersecurity. For e general work history please visit my
+[Linkedin Profile](https://www.linkedin.com/in/rahul-tyagi-3925b0233/)
 
 ### About Me
 - Experience with SAAP & SAAS companies
