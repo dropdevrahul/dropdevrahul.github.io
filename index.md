@@ -1,17 +1,18 @@
 ## Rahul Tyagi
-
 Software Engineer & Architect(Python/Golang) with experience in building/maintaing & updating micro/macro services in fast paced startups and a masters degree in Software Engineering. 
+Have a total of 6+ years of professional experience working with both large teams(as large as 150 developers across several pods) and in small teams (5-6 developers).
 
 ### Career Domains & History
-Started as a fullstack developer in 2017, Currently working as a Senior Backend Engineer. Have worked in finance sector based products (3.5 years) and cybersecurity (1.5 years).
+Started as a fullstack developer in 2017, Currently working as a Senior Software Engineer. Have worked in finance sector/cybersecurity.
 
 ### About Me
-- Experience with On Prem as well as cloud based services.
-- Have have helped in several microservices from scratch as well as libraries for internal/external use by other teams/programmers.
-- Strong grasp of CS fundamentals and upto date with latest trends in Software Development. 
-- Linux Enthusiast with my own preferred dev linux rice setup(see the dotfiles).
-- I <3 Vim for development.
-- In the past have worked heavily with Python extensively currently focusing on more low level languages and technologies such as C/Golang
+- Experience with SAAP & SAAS companies
+- Have have helped in several microservices from scratch as well as libraries for internal/external/tools used by other teams/programmers.
+- Strong grasp of CS fundamentals and upto date with latest trends in Software Development.
+- I have worked in high paced startups at the time of their exponential growth and helped several startups scale up and standarize their tech stack.
+- I have worked with Python/Golang both.
+- I am trying to be active in the open source community and maintaining a few of my own passion projects.
+- 
 
 ### Links to my projects
 - [Knowledge base](https://github.com/dropdevrahul/knowledge-base) collection of several resources for learning
