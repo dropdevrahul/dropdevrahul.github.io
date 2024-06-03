@@ -1,6 +1,6 @@
 ## Rahul Tyagi
 Software Engineer & Architect(Python/Golang) with experience in building/maintaing & updating micro/macro services in fast paced startups and a masters degree in Software Engineering.
-Have a total of 7+ years of professional experience working with both large teams(as large as 150 developers across several pods) and in small teams (5-6 developers). Currently I am working  on the Payments team of the [Codecademy Platform](https://www.codecademy.com/) and working Go/Ruby on Rails/Reactjs/NextJs.
+Have a total of 7+ years of professional experience working with both large teams(as large as 150 developers across several pods) and in small teams (5-6 developers). Currently I am working  on the Payments team of the [Codecademy Platform](https://www.codecademy.com/) and working on the Go/Ruby on Rails/Reactjs/NextJs.
 
 ### Career Domains & History
 Started as a fullstack developer in 2017, Currently working as a Senior Software Engineer. Have worked in finance sector/cybersecurity. For e general work history please visit my
