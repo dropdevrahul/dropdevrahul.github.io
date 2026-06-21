@@ -1,0 +1,15 @@
+name: Rahul Tyagi
+tagline: Pragmatic Programmer
+role: Software Engineer at Skillsoft (Codecademy)
+location: Delhi, India
+blurb: >-
+  I build pragmatic developer tools and backend systems — mostly in Go and
+  TypeScript. I care about software that's simple, reliable, and a pleasure
+  to maintain.
+links:
+  - label: GitHub
+    url: https://github.com/dropdevrahul
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/rahul-tyagi-3925b0233/
+  - label: Email
+    url: mailto:rahul.1992.tyagi@proton.me

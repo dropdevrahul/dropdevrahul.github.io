@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{%- assign p = site.data.profile -%}
+<section class="hero">
+  <p class="prompt reveal">{{ p.role }} <span class="dot">·</span> {{ p.location }}</p>
+  <h1 class="hero-name reveal" style="animation-delay:60ms">{{ p.name }}<span class="cursor">█</span></h1>
+  <p class="hero-tagline reveal" style="animation-delay:120ms">{{ p.tagline }}</p>
+  <p class="hero-blurb reveal" style="animation-delay:180ms">{{ p.blurb }}</p>
+  <div class="hero-links reveal" style="animation-delay:240ms">
+    {%- for l in p.links -%}
+    <a class="pill" href="{{ l.url }}"{% unless l.url contains "mailto" %} rel="noopener"{% endunless %}>{{ l.label }} <span class="arr">↗</span></a>
+    {%- endfor -%}
+  </div>
+</section>
+
+<section class="projects">
+  <h2 class="section-label reveal">// selected projects</h2>
+  <div class="project-grid">
+    {%- for proj in site.data.projects -%}
+    <a class="card{% if proj.featured %} card--featured{% endif %} reveal" href="{{ proj.url }}" rel="noopener" style="animation-delay:{{ forloop.index | times: 60 | plus: 120 }}ms">
+      <div class="card-top">
+        <h3 class="card-name">{{ proj.name }}</h3>
+        {%- if proj.stars > 0 %}<span class="stars">★ {{ proj.stars }}</span>{% endif -%}
+      </div>
+      <p class="card-desc">{{ proj.desc }}</p>
+      <div class="card-bottom">
+        <span class="lang">{{ proj.lang }}</span>
+        <span class="card-arr">→</span>
+      </div>
+    </a>
+    {%- endfor -%}
+  </div>
+  <a class="all-link" href="https://github.com/dropdevrahul?tab=repositories" rel="noopener">all repositories on github ↗</a>
+</section>

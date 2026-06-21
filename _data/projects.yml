@@ -1,0 +1,51 @@
+# Top projects, ordered. `featured: true` spans the full row.
+- name: campy
+  url: https://github.com/dropdevrahul/campy
+  stars: 9
+  lang: TypeScript
+  featured: true
+  desc: >-
+    Animated ASCII terminal pets for CLI coding agents — Claude Code, OpenCode,
+    Gemini CLI, Codex CLI, Cursor CLI, Aider.
+
+- name: hypr
+  url: https://github.com/dropdevrahul/hypr
+  stars: 8
+  lang: Go · React
+  desc: >-
+    A fast, cross-platform desktop REST API client — a lightweight
+    Postman/Insomnia alternative built with Wails (Go) + React.
+
+- name: pincodes-india
+  url: https://github.com/dropdevrahul/pincodes-india
+  stars: 5
+  lang: Go
+  desc: >-
+    Pincode data for Indian states plus clients in several languages for the
+    official India Post pincode directory API.
+
+- name: nexum
+  url: https://github.com/dropdevrahul/nexum
+  stars: 3
+  lang: Python
+  desc: >-
+    Claude Code plugin that cuts context tokens and model cost — output
+    truncation hooks and an Opus-plans / Sonnet-Haiku-implements workflow.
+
+- name: herald
+  url: https://github.com/dropdevrahul/herald
+  stars: 0
+  lang: Go
+  desc: A Go-based agent-building framework.
+
+- name: peacock
+  url: https://github.com/dropdevrahul/peacock
+  stars: 2
+  lang: Go
+  desc: A simple Go cache with minimal features, plus a Go client.
+
+- name: lemon
+  url: https://github.com/dropdevrahul/lemon
+  stars: 2
+  lang: TypeScript
+  desc: A Tauri-based desktop app to access Lemmy instances.

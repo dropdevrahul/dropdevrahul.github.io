@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<section class="doc">
+  <h1 class="doc-title reveal">{{ page.title | default: "Blog" }}</h1>
+  {%- if page.content != "" %}<div class="prose reveal">{{ content }}</div>{% endif -%}
+
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li class="post-item reveal" style="animation-delay:{{ forloop.index | times: 50 }}ms">
+      <a href="{{ post.url | relative_url }}">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+        <span class="post-title">{{ post.title }}</span>
+      </a>
+    </li>
+    {%- else -%}
+    <li class="post-empty">No posts yet.</li>
+    {%- endfor -%}
+  </ul>
+</section>
