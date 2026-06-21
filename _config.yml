@@ -27,7 +27,6 @@ url: "https://dropdevrahul.github.io" # the base hostname & protocol for your si
 github_username:  dropdevrahul
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
